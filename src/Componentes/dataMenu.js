@@ -20,49 +20,49 @@ export const responsive = {
 export const menuHamburguer = [
     {
       id: 1,
-      imageurl: "../src/assets/Img/ham1.jfif",
+      imageurl: "../assets/Img/ham1.jpeg",
       name: "Hambúrguer Clássico",
       price: "R$18,99"
   },
   {
       id: 2,
-      imageurl: "../src/assets/Img/hambuguer com 3 bife cheddar e bacon.jfif",
+      imageurl: "../assets/Img/ham2.jpeg",
       name: "Hambúrguer com 3 Bifes, Cheddar e Bacon",
       price: "R$25,99"
   },
   {
       id: 3,
-      imageurl: "../src/assets/Img/hambuguer simples com cebola roxa.jfif",
+      imageurl: "../assets/Img/ham3.jpeg",
       name: "Hambúrguer Simples com Cebola Roxa",
       price: "R$15,99"
   },
   {
       id: 4,
-      imageurl: "../src/assets/Img/hambuguer com dois bife cheddar e picles.jfif",
+      imageurl: "../assets/Img/ham4.jpeg",
       name: "Hambúrguer com Dois Bifes, Cheddar e Picles",
       price: "R$22,50"
   },
   {
       id: 5,
-      imageurl: "../src/assets/Img/Hambúrguer Artesanal para vender.jfif",
+      imageurl: "../assets/Img/ham5.jpeg",
       name: "Hambúrguer Artesanal",
       price: "R$30,00"
   },
   {
       id: 6,
-      imageurl: "../src/assets/Img/hamburguer com dois bifes bacon cheddar.jfif",
+      imageurl: "../assets/Img/ham6.jpeg",
       name: "Hambúrguer com Dois Bifes, Bacon e Cheddar",
       price: "R$28,50"
   },
   {
       id: 7,
-      imageurl: "../src/assets/Img/Ideias de comida para vender no delivery_ Hambúrguer gourmet.jfif",
+      imageurl: "../assets/Img/ham7.jpeg",
       name: "Hambúrguer Gourmet",
       price: "R$35,00"
   },
   {
       id: 8,
-      imageurl: "../src/assets/Img/rosquinha de hambuguer bacon ovo cheddar.jfif",
+      imageurl: "../assets/Img/ham8.jpeg",
       name: "Rosquinha de Hambúrguer com Bacon, Ovo e Cheddar",
       price: "R$20,00"
   }
@@ -70,49 +70,49 @@ export const menuHamburguer = [
 export const menuHotD = [
     {
       id: 1,
-      imageurl: "../src/assets/Img/cachorro quente com bastante molho.jfif",
+      imageurl: "../assets/Img/hot1.jpeg",
       name: "Cachorro Quente com Bastante Molho",
       price: "R$12,99"
   },
   {
       id: 2,
-      imageurl: "../src/assets/Img/cachorro quente com molho vermelho.jfif",
+      imageurl: "../assets/Img/hot2.jpeg",
       name: "Cachorro Quente com Molho Vermelho",
       price: "R$13,99"
   },
   {
       id: 3,
-      imageurl: "../src/assets/Img/cachorro quente com palmito.jfif",
+      imageurl: "../assets/Img/hot3.jpeg",
       name: "Cachorro Quente com Palmito",
       price: "R$14,99"
   },
   {
       id: 4,
-      imageurl: "../src/assets/Img/cachorro quente simples.jfif",
+      imageurl: "../assets/Img/hot4.jpeg",
       name: "Cachorro Quente Simples",
       price: "R$10,99"
   },
   {
       id: 5,
-      imageurl: "../src/assets/Img/calabresa.jpg",
+      imageurl: "../assets/Img/hot5.jpeg",
       name: "Calabresa",
       price: "R$11,99"
   },
   {
       id: 6,
-      imageurl: "../src/assets/Img/cachorro quente com pedaços de carne.jfif",
+      imageurl: "../assets/Img/hot6.jpeg",
       name: "Cachorro Quente com Pedaços de Carne",
       price: "R$15,99"
   },
   {
       id: 7,
-      imageurl: "../src/assets/Img/dogão.jpg",
+      imageurl: "../assets/Img/hot7.jpeg",
       name: "Dogão",
       price: "R$16,99"
   },
   {
       id: 8,
-      imageurl: "../src/assets/Img/The Most Insane Hot Dogs From America's Baseball Stadiums.jfif",
+      imageurl: "../assets/Img/hot8.jpeg",
       name: "Cachorro Quente Insano",
       price: "R$18,99"
   }
@@ -120,49 +120,49 @@ export const menuHotD = [
   export const menuPorcao = [
     {
       id: 1,
-      imageurl: "../src/assets/Img/aneis de cebola.jpg",
+      imageurl: "../assets/Img/port1.jpeg",
       name: "Aneis de Cebola",
       price: "R$18,99"
   },
   {
       id: 2,
-      imageurl: "../src/assets/Img/batata com file de peixe.jpg",
+      imageurl: "../assets/Img/port2.jpeg",
       name: "Mix",
       price: "R$23,50"
   },
   {
       id: 3,
-      imageurl: "../src/assets/Img/camarão.jpg",
+      imageurl: "../assets/Img/port3.jpeg",
       name: "Camarão",
       price: "R$30,00"
   },
   {
       id: 4,
-      imageurl: "../src/assets/Img/costelinha.jpg",
+      imageurl: "../assets/Img/port4.jpeg",
       name: "Costelinha",
       price: "R$25,75"
   },
   {
       id: 5,
-      imageurl: "../src/assets/Img/coxinhas de frango.jpg",
+      imageurl: "../assets/Img/port5.jpeg",
       name: "Coxa de frango",
       price: "R$15,99"
   },
   {
       id: 6,
-      imageurl: "../src/assets/Img/porção de bata bacon mussarela.jfif",
+      imageurl: "../assets/Img/port6.jpeg",
       name: "Batata com bacon",
       price: "R$20,00"
   },
   {
       id: 7,
-      imageurl: "../src/assets/Img/tiras de peixe com molho.jpg",
+      imageurl: "../assets/Img/port7.jpeg",
       name: "File de peixe",
       price: "R$28,50"
   },
   {
       id: 8,
-      imageurl: "../src/assets/Img/torresmo.jpg",
+      imageurl: "../assets/Img/port8.jpeg",
       name: "Torresminho",
       price: "R$18,00"
   }
